@@ -1,6 +1,6 @@
 import argparse
 import sys
-from ua_extract.update_regex import Regexes
+from .update_regex import Regexes
 
 
 def main():
